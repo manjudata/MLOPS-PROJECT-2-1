@@ -7,3 +7,4 @@ tensorflow
 comet-ml
 dvc-gs
 flask
+joblib>=1.3,<2
