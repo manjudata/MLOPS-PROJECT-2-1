@@ -5,4 +5,5 @@ google-cloud-storage
 pyyaml
 tensorflow
 comet-ml
-dvc
+dvc-gs
+flask
